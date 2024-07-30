@@ -1,5 +1,5 @@
 Welcome to the PKD Automation Framework solution, created and maintained by Phrase-Keywords.com Founder & President, Omari W. Dixon.  
-Visit Phrase-Keywords.com for training materials, documentation, and other related information. 
+Visit https://www.Phrase-Keywords.com for training materials, documentation, and other related information. 
 
 This RunPDK repo contains all the initial code needed to automate your Phrase-Keywords flows. 
 
