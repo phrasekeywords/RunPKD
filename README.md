@@ -1,8 +1,9 @@
-Welcome to the PKD Automation Framework solution. 
+Welcome to the PKD Automation Framework solution, created and maintained by Phrase-Keywords.com Founder & President, Omari W. Dixon.  
+Visit Phrase-Keywords.com for training materials, documentation, and other related information. 
 
-The RunPDK folder contains all the code needed to fully automate your Phrase-Keywords flows. 
+This RunPDK repo contains all the initial code needed to automate your Phrase-Keywords flows. 
 
-Follow these three steps to get started: 
+Follow these steps to get started: 
 
 1) Install Java on your machine: https://www.java.com/en/download/
 2) Download and Extract the RunPKD code base to your local folder location.
